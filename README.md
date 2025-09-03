@@ -1,12 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Calculadora
 
-Currently, two official plugins are available:
+## Estruturação e Utilização 🔧📓
+O projeto de calculadora foi um desafio do curso. Estruturei ele em 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**React**: Implementar a UI do projeto
 
-## Expanding the ESLint configuration
+**Styled Component**: Aplicar a estilização do layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Math.js**: Auxiliar nos cálculos e operações matemáticas
+
+## Tecnologias utilizada 💻
+
+**Front-end:** React.js
+
+## Propósito 🎯
+
+Esse projeto foi um desafio semanal proposto pelo curso FullStackClub, com o objetivo de consolidar o conhecimento e aprimorar habilidades
+
+## Prints 🖼️
+<img width="627" height="840" alt="Captura de tela 2025-09-02 212413" src="https://github.com/user-attachments/assets/00fc6c07-791e-44ea-9813-5104af7a3038" />
