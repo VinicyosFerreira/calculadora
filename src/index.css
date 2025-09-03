@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#root {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #222;
+    color: #ddd;
+}
+
+.equal {
+    grid-column: 4;
+    grid-row: 4/6;
+}
+
+.zero {
+    grid-column: 1/4;
+}
